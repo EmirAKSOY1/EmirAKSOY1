@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Image Processing
 - 📫 How to reach me +905426307649 emiraksoy10@gmail.com
 
-<!---
-EmirAKSOY1/EmirAKSOY1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=eaksoy10&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
