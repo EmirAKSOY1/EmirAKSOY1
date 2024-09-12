@@ -4,7 +4,7 @@
 - 📫 How to reach me emiraksoy10@gmail.com
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=eaksoy10&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=eaksoy10&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br />
 ![pv](https://pageview.vercel.app/?github_user=EmirAKSOY1)
 <br />
